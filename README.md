@@ -1,6 +1,6 @@
 # Shopping List
--Eggs
--cheese
--vegetables
--Dog Food
--Keyboard
+- Eggs
+- cheese
+- vegetables
+- Dog Food
+- Keyboard
